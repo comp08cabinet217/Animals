@@ -1,0 +1,25 @@
+span.d {
+  display: inline-block;
+  width: 290px;
+  height: 81px;
+  padding: 5px;
+  border: 1px solid #59c5ff;
+  border-radius: 18px;
+  background-color: #c9ecff;
+}
+.block {
+  width:805px;
+  height: 405px;
+  background-color: lightblue;
+  border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
+}
+.block1{
+  width:805px;
+  height: 405px;
+  background-color: lightblue;
+  border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
+}
